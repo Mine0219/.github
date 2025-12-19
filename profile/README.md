@@ -30,7 +30,7 @@ We are a passionate team dedicated to creating innovative solutions and open-sou
 Here are some of our most popular and impactful projects:
 
 <!-- You can customize these with your actual repositories -->
-- **[Project One](https://github.com/vynlence/NFT-Airdrop-Platform)** - Brief description of project one
+- **[Poseidon](https://github.com/VynlenceTech/poseidon)**
 
 > 💡 **Tip**: Check out our [pinned repositories](https://github.com/vynlence) to see more of our work!
 
